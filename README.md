@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia, em busca de oportunidades para a
 
 * 🔭 **Trabalhando com:** Desenvolvimento Fullstack e Mobile
 * 🌱 **Aprendendo:** Novas arquiteturas e bibliotecas modernas
-* ⚡ **Hobbies:** Estudos 📚 & Academia 🏋️‍♂️
+* ⚡ **Hobbies:** Estudos 📚 & Academia 🏋️‍♂️ & Café☕
 
 ---
 
