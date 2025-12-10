@@ -12,7 +12,7 @@
 
 ### 🧐 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia. Tenho facilidade e muita vontade de aprender novas stacks. Quando não estou codando, você provavelmente vai me encontrar estudando ou na academia.
+Sou um desenvolvedor apaixonado por tecnologia, em busca de oportunidades para aprimorar meus conhecimentos e colocar em prática as tecnologias com as quais amo trabalhar.
 
 * 🔭 **Trabalhando com:** Desenvolvimento Fullstack e Mobile
 * 🌱 **Aprendendo:** Novas arquiteturas e bibliotecas modernas
