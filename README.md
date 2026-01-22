@@ -1,10 +1,9 @@
-# Olá, eu sou o Carlos! 👋
+# Olá, sou Carlos, seja bem-vindo ao meu perfil!!!
 
 <div align="center">
   
   **Desenvolvedor Web & Android | Brasileiro 🇧🇷**
   
-  *Transformando café em código e ideias em realidade.*
   
 </div>
 
@@ -12,11 +11,11 @@
 
 ### 🧐 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, em busca de oportunidades para aprimorar meus conhecimentos e colocar em prática as tecnologias com as quais amo trabalhar.
+Sou um desenvolvedor muito fã pelas tecnologias, para análise de dados, criações de sites na parte de back-end e também para desenvolvimento em mobile, buscando sempre o conhecimentos e procurar as oportunidades para aprimorar meus conhecimentos e aplicar em prática
 
 * 🔭 **Trabalhando com:** Desenvolvimento Fullstack e Mobile
 * 🌱 **Aprendendo:** Novas arquiteturas e bibliotecas modernas
-* ⚡ **Hobbies:** Estudos 📚 & Academia 🏋️‍♂️ & Café☕
+* ⚡ **Hobbies:** Estudos 📚 & Academia 🏋️‍♂️
 
 ---
 
